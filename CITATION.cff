@@ -1,0 +1,11 @@
+cff-version: 0.0.1
+message: "If you use this software, please cite it as below."
+authors:
+- family-names: "Grainger"
+  given-names: "Matthew"
+  orcid: "0000-0001-8426-6495"
+title: "Hedges_g_checker"
+version: 0.0.1
+doi: 
+date-released: 
+url: "https://github.com/DrMattG/Hedges_g"
