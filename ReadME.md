@@ -9,6 +9,12 @@ Standardised mean difference require the standard deviations of the two groups (
 
 Often the standard error is mistakenly reported as the standard deviation, this has a big effect on the calculation of the standardised mean difference. If you calculate a very large (greater than 5) Hedges' g estimate you might want to check the calculation and the original paper to make sure that the data has been extracted correctly. 
 
+### The underlying data
+
+The data used are ecological. Different subject areas will have different typical effect sizes. 
+
+Currently the underlying distribution comes from [Fox 2022](https://doi.org/10.1002/ece3.9521). These are 7436 Hedges g effect sizes. The original data had 8396 studies but several had clear errors (Effect sizes over 100 for example!), so I used the first and third quartiles to identify and remove any outliers.
+
 ## How to run the App?
 
 You can launch the App [here](https://drmatt.shinyapps.io/Hedges_g_checker/)
