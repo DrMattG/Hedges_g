@@ -1,6 +1,3 @@
----
-title: "Hedges_g_checker"
----
 
 ## What is Hedges g?
 
