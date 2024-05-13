@@ -19,6 +19,8 @@ Currently the underlying distribution comes from [Fox 2022](https://doi.org/10.1
 
 You can launch the App [here](https://drmatt.shinyapps.io/Hedges_g_checker/)
 
+Upload your data with Hedges g in it. Navigate to the correct column and then press "Go". After a few minutes you will see a plot of the distribution of typical effect sizes (blue distribution; from the Fox 2022 dataset) along with red lines that indicate your Hedges g values. If your values fall outside the typical effect sizes you may wish to check the calculation and data extraction. 
+
 ## Bugs and improvements
 
 Please report bugs using the [issues in the repo](https://github.com/DrMattG/Hedges_g/issues)
